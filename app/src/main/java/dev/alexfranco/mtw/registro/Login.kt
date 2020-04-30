@@ -6,9 +6,6 @@ import android.os.Bundle
 import android.view.View
 import kotlinx.android.synthetic.main.activity_login.*
 
-import com.example.registro.SignUp
-import kotlinx.android.synthetic.main.activity_login.*
-
 class Login : AppCompatActivity(), View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
